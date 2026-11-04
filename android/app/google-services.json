@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349131421979",
+    "project_id": "vivah-sambandh",
+    "storage_bucket": "vivah-sambandh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349131421979:android:1cfec52d9a5e5f4ba97bbe",
+        "android_client_info": {
+          "package_name": "com.vs.agsolution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGcDzwZCJU_jtPzj5VVHc9IDFyLj0is4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
